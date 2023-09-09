@@ -9,7 +9,7 @@ const config = {
   title: 'EZ Template',
   tagline: '',
   url: 'https://aayushpaudel1.github.io',
-  baseUrl: '/',
+  baseUrl: '/EZ-Template/',
   projectName: 'EZ-Template',
   organizationName: 'aayushpaudel1',
   trailingSlash: false,
