@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'EZ Template',
   tagline: '',
-  url: 'https://aayushpaudel1.github.io',
-  baseUrl: '/EZ-Template/',
+  url: 'https://eztemp.acprobotics.org',
+  baseUrl: '/',
   projectName: 'EZ-Template',
   organizationName: 'aayushpaudel1',
   trailingSlash: false,
